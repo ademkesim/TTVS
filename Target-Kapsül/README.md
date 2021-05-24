@@ -1,3 +1,6 @@
+
+Verisetimizin etiketleri aşağıdaki şekildedir, yolo formatina uygundur:
+
 item {
   id: 0
   name: 'dur'
@@ -17,8 +20,6 @@ item {
   id: 3
   name: 'sagaDonulmez'
 }
-
-Verisetimizin etiketleri aşağıdaki şekildedir, yolo formatina uygundur:
 
 item {
   id: 4
